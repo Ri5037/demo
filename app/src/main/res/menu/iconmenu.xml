@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/menu_info"
+    android:icon="@drawable/ic_baseline_info"
+    android:title="Admin Info"/>
+    <item
+        android:id="@+id/menu_complain"
+        android:icon="@drawable/complain"
+        android:title="Complain"/>
+    <item
+        android:id="@+id/menu_sust"
+        android:icon="@drawable/sust_logo"
+        android:title="About SUST"/>
+</menu>
