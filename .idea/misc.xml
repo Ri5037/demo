@@ -3,12 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/Hall_Management/app/src/main/res/layout/activity_acnt.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Hall_Management/app/src/main/res/layout/activity_admin.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Hall_Management/app/src/main/res/layout/activity_admin_info_show.xml" value="0.2359375" />
         <entry key="..\:/Users/User/AndroidStudioProjects/Hall_Management/app/src/main/res/layout/activity_fire_base_push_noti.xml" value="0.25" />
         <entry key="..\:/Users/User/AndroidStudioProjects/Hall_Management/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Users/User/AndroidStudioProjects/Hall_Management/app/src/main/res/layout/activity_profile.xml" value="0.25" />
         <entry key="..\:/Users/User/AndroidStudioProjects/Hall_Management/app/src/main/res/layout/activity_student_log_in.xml" value="0.25" />
         <entry key="..\:/Users/User/AndroidStudioProjects/Hall_Management/app/src/main/res/layout/activity_student_profile.xml" value="0.25" />
         <entry key="..\:/Users/User/AndroidStudioProjects/Hall_Management/app/src/main/res/layout/activity_student_register.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Hall_Management/app/src/main/res/layout/item.xml" value="0.25" />
         <entry key="..\:/Users/User/AndroidStudioProjects/Hall_Management/app/src/main/res/menu/iconmenu.xml" value="0.25" />
       </map>
     </option>

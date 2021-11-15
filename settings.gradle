@@ -1,0 +1,2 @@
+rootProject.name = "Hall_Management"
+include ':app'

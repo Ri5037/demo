@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Acnt_Activity" >
+
+    <ImageView
+        android:id="@+id/imageView_sust"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_marginTop="100dp"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/sust_logo" />
+
+    <TextView
+        android:id="@+id/hall_manager_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hall Manager"
+        android:textSize="30dp"
+        android:layout_marginTop="10dp"
+        android:layout_centerInParent="true"
+        android:layout_below="@+id/imageView_sust" />
+    <Button
+        android:id="@+id/student_login"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_below="@id/hall_manager_text"
+        android:layout_centerInParent="true"
+        android:text="Student-LogIn" />
+
+    <Button
+        android:layout_below="@id/student_login"
+        android:layout_marginTop="10dp"
+        android:layout_centerInParent="true"
+        android:id="@+id/admin_login"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Admin-LogIn" />
+
+
+</RelativeLayout>
+
